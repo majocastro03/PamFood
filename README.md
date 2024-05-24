@@ -1,2 +1,2 @@
 # PamFood
-Sistematización del proceso de atención de pedidos a domicilios para un restaurante
+Sistematización del proceso de atención de pedidos a domicilios para un restaurante, desarrollando las estructuras de datos necesarias, la aplicación de los algoritmos para funciones como hallar rutas, ordenar por prioridad en lenguaje de programación Java, teniendo en cuenta la divisón de los cuatro módulos requeridos. Realizando almacenamiento de datos y acceso a ellos desde servidor local por medio de archivos de texto JSON y XML con la interfaz RMI.
