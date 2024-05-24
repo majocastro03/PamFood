@@ -1,0 +1,59 @@
+{
+	"Clientes": [
+		{
+			"direccion": "Provenza",
+			"producto": {
+				"precio": "10.000",
+				"nombre": "Bowl pollito",
+				"prioridad": "1"
+			},
+			"telefono": "3016679731",
+			"nombre": "Daniel",
+			"prioridad": "1"
+		},
+		{
+			"direccion": "Piedecuesta",
+			"telefono": "3167836748",
+			"nombre": "Majo",
+			"prioridad": "1",
+			"producto": {
+				"precio": "10.000",
+				"nombre": "Bowl pollito",
+				"prioridad": "1"
+			}
+		},
+		{
+			"direccion": "Giron",
+			"telefono": "3165004441",
+			"nombre": "Paola",
+			"prioridad": "1",
+			"producto": {
+				"precio": "10.000",
+				"nombre": "Bowl pollito",
+				"prioridad": "1"
+			}
+		},
+		{
+			"direccion": "Bucaramanga",
+			"telefono": "3004876880",
+			"nombre": "Ana",
+			"prioridad": "1",
+			"producto": {
+				"precio": "10.000",
+				"nombre": "Bowl pollito",
+				"prioridad": "1"
+			}
+		},
+		{
+			"direccion": "Provenza",
+			"telefono": "3002156030",
+			"nombre": "Juan",
+			"prioridad": "1",
+			"producto": {
+				"precio": "10.000",
+				"nombre": "Bowl pollito",
+				"prioridad": "1"
+			}
+		}
+	]
+}

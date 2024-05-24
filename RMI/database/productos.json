@@ -1,0 +1,94 @@
+{
+	"Productos": [
+		{
+			"nombre": "Gaseosa",
+			"precio": "3.000",
+			"prioridad": 2,
+			"id": 100
+		},
+		{
+			"nombre": "Agua sin gas",
+			"precio": "3.000",
+			"prioridad": 2,
+			"id": 200
+		},
+		{
+			"nombre": "Sodas de la casao",
+			"precio": "3.000",
+			"prioridad": 2,
+			"id": 300
+		},
+		{
+			"nombre": "Jugos naturalesn",
+			"precio": "3.000",
+			"prioridad": 2,
+			"id": 400
+		},
+				{
+			"nombre": "Té negro frio",
+			"precio": "3.000",
+			"prioridad": 2,
+			"id": 500
+		},
+				{
+			"nombre": "Agua con gas",
+			"precio": "3.000",
+			"prioridad": 2,
+			"id": 600
+		},
+				{
+			"nombre": "Bowl Pollito",
+			"precio": "10.000",
+			"prioridad": 1,
+			"id": 7
+		},
+				{
+			"nombre": "Bowl Mexicano",
+			"precio": "10.000",
+			"prioridad": 1,
+			"id": 8
+		},
+				{
+			"nombre": "Bowl Marino",
+			"precio": "10.000",
+			"prioridad": 1,
+			"id": 900
+		},
+				{
+			"nombre": "Bowl Vegan",
+			"precio": "10.000",
+			"prioridad": 1,
+			"id": 10
+		},
+				{
+			"nombre": "Papas fritas",
+			"precio": "5.000",
+			"prioridad": 1,
+			"id": 110
+		},
+				{
+			"nombre": "Papas de carita",
+			"precio": "5.000",
+			"prioridad": 1,
+			"id": 120
+		},
+				{
+			"nombre": "Papas en casco",
+			"precio": "5.000",
+			"prioridad": 1,
+			"id": 130
+		},
+				{
+			"nombre": "Yuquitas",
+			"precio": "5.000",
+			"prioridad": 1,
+			"id": 140
+		},
+				{
+			"nombre": "Agua con gas",
+			"precio": "5.000",
+			"prioridad": 1,
+			"id": 15
+		}
+	]
+}
